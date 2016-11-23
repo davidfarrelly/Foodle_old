@@ -1,0 +1,7 @@
+#Wed Nov 23 09:32:32 GMT 2016
+base.0=C\:\\Users\\farre\\Documents\\CS353\\Foodle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_26c73d9a4735ee1da64e5ad5d761a5be727229b1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\farre\\Documents\\CS353\\Foodle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_232ce97a361e6f2f267cc1d76aba270a7bc3c4c1\\classes.dex
+base.1=C\:\\Users\\farre\\Documents\\CS353\\Foodle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_232ce97a361e6f2f267cc1d76aba270a7bc3c4c1
+file.0=C\:\\Users\\farre\\Documents\\CS353\\Foodle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_26c73d9a4735ee1da64e5ad5d761a5be727229b1\\classes.dex

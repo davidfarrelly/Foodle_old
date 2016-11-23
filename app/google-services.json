@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "70494626030",
+    "firebase_url": "https://foodle-40e02.firebaseio.com",
+    "project_id": "foodle-40e02",
+    "storage_bucket": "foodle-40e02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70494626030:android:7852c25d4e963c6b",
+        "android_client_info": {
+          "package_name": "com.example.farre.foodle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70494626030-v5qfum188ascebvk7vc62apsa1gf0e7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJD5cLGpCb9pLeUmSZrtJjHmGwCVsaYlo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
